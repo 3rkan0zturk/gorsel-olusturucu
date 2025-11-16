@@ -1,0 +1,7 @@
+{
+  "name": "Arkaplan Oluşturucu",
+  "description": "Yapay zeka kullanarak telefonunuz için benzersiz ve özelleştirilmiş duvar kağıtları oluşturun. Metin veya sesli komutlarla istemler girin veya rastgele ilham alın.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
